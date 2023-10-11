@@ -1,4 +1,4 @@
-class LocalStorageManager {
+export class LocalStorageManager {
     // Constructor que toma un nombre de espacio para evitar colisiones con claves en localStorage.
     constructor(namespace) {
         this.namespace = namespace;
