@@ -1,0 +1,1 @@
+import localStorageManager from './localStorageManager'
